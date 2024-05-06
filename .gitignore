@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# data
+/json
+/log
+/data
